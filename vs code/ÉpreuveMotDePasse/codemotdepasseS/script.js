@@ -50,7 +50,7 @@ function verifierChoix(choix){
     if(choix === "Alohomora"){
 
         resultat.innerHTML =
-        "Bravo tu est le plus intelligents des sorciers!";
+        "Bravo tu est le plus intelligent des sorciers!";
 
     } else {
 
